@@ -1,0 +1,11 @@
+#ucpt_product_data{
+    padding: 10px;
+}
+.input_area{
+    min-width: 60%;
+}
+.tab_row{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
